@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joseech28/-azure-network-protocols)
   - [VPN Setup and Usage ](https://github.com/joseech28/VPN-azure)
   - [Network File Shares and Permissions](https://github.com/joseech28/setting-Permissions-azure)
-  - [Building Setting DNS](https://github.com/joseech28/building-setting-dns-azure)
+  - [Building and Setting DNS](https://github.com/joseech28/building-setting-dns-azure)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
