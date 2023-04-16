@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joseech28/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joseech28/-azure-network-protocols)
+  - [Settting VPMs with Azure](https://github.com/joseech28/vpm-azure)
+  - [Applying Permitions On Azure](https://github.com/joseech28/setting-permitions-azure)
 
 <h2>🤳Connect with me:</h2>
 
