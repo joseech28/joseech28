@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joseech28/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joseech28/-azure-network-protocols)
-  - [VPN Setup and Usage ](https://github.com/joseech28/VPN-azure)
+  - [VPN Setup and Usage ](https://github.com/joseech28/proton-vpn-azure)
   - [Network File Shares and Permissions](https://github.com/joseech28/setting-Permissions-azure)
   - [Building and Setting DNS](https://github.com/joseech28/building-setting-dns-azure)
 <h2>🤳Connect with me:</h2>
