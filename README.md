@@ -13,11 +13,3 @@
   - [Network File Shares and Permissions](https://github.com/joseech28/setting-Permissions-azure)
   - [Building and Setting DNS](https://github.com/joseech28/building-setting-dns-azure)
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/Jose
-[instagram]: https://www.instagram.com/Jose
-[linkedin]: https://linkedin.com/in/Jose
